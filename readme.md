@@ -21,7 +21,7 @@ Libraries:
 - tensorflow 1.13.1
 
 ## Usage
-To run with default parameters for multi-class emotion recognition:
+To run:
 ```
 python3 cnnlstm.py
 ```
