@@ -7,7 +7,6 @@ Script provided is in relation with the following paper:
 Architure used in the paper is as follows:
 
 <img src="fig/structureCNNLSTM.png" width="480"/>
-<img src="fig/structureCNNLSTM2.png" width="480"/>
 
 ## Dataset
 The experiment in this paper is based on the [DHG-14/28 Dataset](http://www-rech.telecom-lille.fr/DHGdataset/). A description of the dataset can be found in:
